@@ -1,0 +1,154 @@
+*{
+	font-family:Î¢ÈíÑÅºÚ,ËÎÌå,Arial;
+}
+
+body{
+	background:#eaeaea;
+	width:100%;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+}
+
+#bg{
+	width:970px;
+	height:780px;
+	background-image:url(../img/bg.jpg);
+	padding:0px;
+	margin:0px auto;
+	position:relative;
+}
+
+#banner{
+	width:935px;	
+	margin:0px auto;
+	padding:0px;
+	margin-right:18px;
+}
+
+#show{
+	width:900px;
+	margin:0px auto;
+	margin-top:8px;
+}
+#show p{
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	float:left;
+	margin-top:3px;
+}
+
+.six{
+	float:left;
+	margin:0px;
+	margin-left:13px;
+	margin-bottom:20px;
+}
+
+
+
+#en{
+	margin:0px auto;
+	width:826px;
+	text-align:right;
+	margin-top:20px;
+}
+
+
+
+#showimg{
+	 cursor: hand; cursor:pointer;
+}
+
+
+
+#both{
+	margin:0px auto;
+	padding:0px;
+	width:970px;
+	height:460px;
+	position:absolute;
+
+}
+
+#loginbg{
+	width:502px;
+	height:480px;
+	margin:0px auto;
+	padding:0xp;
+	background:url(../img/loginbg.png) ;
+}
+
+#lotx{
+
+	margin:0px auto;
+	font-size:22px;
+	padding-top:30px;
+}
+
+#lotx2{
+
+	margin:0px auto;
+	font-size:10px;
+	margin-top:5px;
+}
+
+#user{
+	width:240px;
+	height:30px;
+	margin:0px auto;
+	padding:0px;
+	border:1px solid;
+	margin-top:40px;
+}
+
+
+#user2{
+	width:240px;
+	height:31px;
+	margin:0px auto;
+	padding:0px;
+	border:1px solid;
+	margin-top:20px;
+}
+
+
+#an{
+	margin:0px auto;
+	padding:0px;
+	margin-top:20px;
+}
+
+#h2{
+	height:30px;
+	width:450px;
+	margin:0px auto;
+	border-bottom:1px solid #b2b2b2;
+}
+
+#coo{
+	font-size:12px;
+	line-height:20px;
+	text-align:left;
+	margin-left:30px;
+	color:#aba6a6;
+}
+
+
+
+
+#bot{
+	font-size:12px;
+	margin-top:30px;
+}
+
+
+
+
+
+
+
+
+
+

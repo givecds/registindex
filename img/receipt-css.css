@@ -1,0 +1,103 @@
+*{
+	font-family:Î¢ÈíÑÅºÚ,ËÎÌå,Arial;
+}
+
+body{
+	background:#eaeaea;
+	width:100%;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+}
+
+#bg{
+	width:970px;
+	height:1458px;
+	background-image:url(../img/hzbg.jpg);
+	padding:0px;
+	margin:0px auto;
+	position:relative;
+}
+
+#banner{
+	width:935px;	
+	margin:0px auto;
+	padding:0px;
+	margin-right:18px;
+}
+
+#show{
+	width:900px;
+	margin:0px auto;
+	margin-top:8px;
+}
+#show p{
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	float:left;
+	margin-top:3px;
+}
+
+.six{
+	float:left;
+	margin:0px;
+	margin-left:13px;
+	margin-bottom:20px;
+}
+
+#bt{
+	width:896px;
+	margin:0px auto;
+}
+
+#en{
+	margin:0px auto;
+	width:826px;
+	text-align:right;
+	margin-top:20px;
+}
+
+
+
+#showimg{
+	 cursor: hand; cursor:pointer;
+}
+
+
+#cen{
+	width:790px;
+	height:1100px;
+	margin:0px auto;
+	padding:0px;
+	margin-top:40px;
+}
+
+
+#sub{
+	margin:0px auto;
+	padding:0px;
+	margin-top:40px;
+}
+
+
+
+
+
+
+
+
+#bot{
+	font-size:12px;
+	margin-top:30px;
+}
+
+
+
+
+
+
+
+
+
+
